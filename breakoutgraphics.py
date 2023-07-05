@@ -1,10 +1,3 @@
-"""
-Stanford CS106AP Breakout Project
-Adapted from Eric Roberts's Breakout by
-Sonja Johnson-Yu, Kylie Jue, and Nick Bowman.
-
-YOUR DESCRIPTION HERE
-"""
 from campy.gui.events.timer import pause
 from campy.graphics.gwindow import GWindow
 from campy.graphics.gobjects import GOval, GRect, GLabel
